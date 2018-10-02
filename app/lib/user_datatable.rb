@@ -36,3 +36,4 @@ class UserDatatable
     User.count
   end
 end
+
